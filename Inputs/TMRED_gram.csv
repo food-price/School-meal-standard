@@ -1,0 +1,17 @@
+Risk_factor,TMRED,SD,Unit
+frt,300,30,grams/day
+veg,400,40,grams/day
+wg,125,12.5,grams/day
+rmeat,14.2857,1.42857,grams/day
+pmeat,0,0,grams/day
+ssb,0,0,grams/day
+sodium,2000,200,mg/day
+GLwheat,0,0,
+GLrice,0,0,
+nuts,20.25,2.025,grams/day
+seafood,50,5,grams/day
+dairy,3,0.3,cups/day
+rfg,0,0,
+addsug,0,0,
+BMI,22.5,1.3,
+BP,112.5,1.3,
